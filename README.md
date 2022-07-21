@@ -1,1 +1,1 @@
-# AI_Project
+# EARTHQUAKE PREDICTION
