@@ -4,4 +4,4 @@ Objective: To predict when the earthquake will take place. Specifically to predi
 
 Purpose of Problem Statement: As the purpose of short-term prediction is to enable emergency measures to reduce death and destruction.
 
-Impact of this project: Potential to improve earthquake hazard assessments that could save lives and billions of dollars in infrastructure.
+Impact of This Project: Potential to improve earthquake hazard assessments that could save lives and billions of dollars in infrastructure.
